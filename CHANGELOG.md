@@ -2,12 +2,10 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+* Upgrade to v3.15.0 of the pulumi-terraform-bridge.
+* Upgrade to pulumi v3.21.0
 
 ---
-
-## 4.4.0 (2021-11-15)
-* Upgrade to v3.11.0 of the pulumi-terraform-bridge
 
 ## 4.3.1 (2021-10-11)
 * Ensuring sdk dependency on pulumi/pulumi is 3.14.0
